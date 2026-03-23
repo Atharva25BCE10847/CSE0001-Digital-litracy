@@ -2,8 +2,8 @@
 # 📘 Digital Literacy Project
 
 ## 👤 Student Details
-- **Name:** Hanish Singla  
-- **Registration Number:** 25BCE10632  
+- **Name:** Atharva Singh
+- **Registration Number:** 25BCE10847 
 - **Course Code:** CSE0001  
 - **Course Title:** Digital Literacy  
 - **Branch:** Computer Science and Engineering  
@@ -31,7 +31,7 @@ This infographic presents the concept of digital literacy, including key tools, 
 
 ## 🌐 Task 2 – Digital Portfolio
 - 💻 **GitHub:** https://github.com/Atharva25BCE10847/CSE0001-Digital-litracy.git 
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/atharva-singh
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/atharva-singh-7b61763b9/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BaMM9NkyjQjOIFjad47mjlQ%3D%3D
 - 📊 **Kaggle:** https://www.kaggle.com/atharvasingh2008  
 
 These platforms demonstrate my professional online presence and technical engagement.
