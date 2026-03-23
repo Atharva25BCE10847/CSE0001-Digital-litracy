@@ -43,7 +43,7 @@ These platforms demonstrate my professional online presence and technical engage
 - ✔️ Google Form Screenshot  
 - ✔️ Google Sheet Responses  
 
-- 📎 **Google Form Link:**   https://docs.google.com/forms/d/e/1FAIpQLScIo4_oFjgGyhkZuTJMgmnSQCIWK89E9eEouhCBSmODiT-EPw/viewform?usp=header
+- 📎 **Google Form Link:** https://docs.google.com/forms/d/e/1FAIpQLScIo4_oFjgGyhkZuTJMgmnSQCIWK89E9eEouhCBSmODiT-EPw/viewform?usp=publish-editor
 - 📎 **Google Sheet Link:** https://docs.google.com/spreadsheets/d/14j1g-ZhuT7h-kmByOIPD-4eXF0WJvnKmm_W_D2XB0Eo/edit?usp=sharing 
 
 These tools showcase my ability to work with coding platforms and collaborative tools.
